@@ -22,6 +22,6 @@
   ],
   "dependencies": {
     "angular": "1.2.*",
-    "imgcache.js": "*"
+    "imgcache.js": "v1.0rc1"
   }
 }
